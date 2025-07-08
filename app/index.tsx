@@ -75,12 +75,11 @@ export default function Index() {
       </View>
       {/* Add tanks on click of Add Tank */}
       <View
-        // key={tank}
         style={{
           padding: 10,
           marginVertical: 5,
           width: "100%",
-          backgroundColor: "red",
+          backgroundColor: "#f0f0f0",
           flexDirection: "row",
           flexWrap: "wrap",
           justifyContent: "space-between",
